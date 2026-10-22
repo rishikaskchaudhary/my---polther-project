@@ -1,5 +1,8 @@
 # Polther Project
 
+## Live Demo 
+[**View the Live POLTHER Project**](https://rishikaskchaudhary.github.io/my---polther-project/)
+
 ## Introduction
 Polther is a web-based Pollution + Weather monitoring platform that presents environmental information through a clean, responsive, and interactive frontend. The name “Polther” is derived
 from POL (Pollution) and THER (Weather), reflecting the system’s dual focus. The project aims to simplify how users access environmental data by combining pollution indicators and weather
